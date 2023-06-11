@@ -1,5 +1,5 @@
-## I believe development should be agile, scaleable, and fun!
-### Hi, I’m Ida 👋
+## Hi, I’m Ida 👋
+### I believe development should be agile, scaleable, and fun!
 - 💻 A front-end developer based in Oslo, Norway
 - 🎓 With a background in logistics, economics and computer science 
 - 🎨 And hobbies ranging from sewing🧵 to dance💃
