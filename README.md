@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I’m Ida 👋
+💻 A front-end developer based in Oslo, Norway
+🎓 With a background in logistics, economics and computer science 
+🎨 And hobbies ranging from sewing🧵 to dance💃
+
+I believe development should be agile, scaleable, and fun!
+
+📫 How to reach me? [LinkedIn.](https://www.linkedin.com/in/ida-nguyen-441709187/)
 
 <!--
 **idanguyen/idanguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
